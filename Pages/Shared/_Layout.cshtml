@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - My Razor App</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true">
+    <link rel="stylesheet" href="~/MyRazorApp.styles.css" asp-append-version="true">
+</head>
+<body>
+
+  <header>
+    <partial name="Shared/NavMenuPartial"></partial>
+  </header>
+
+  <main>
+    @RenderBody()
+  </main>
+
+<footer>
+    2023 - Powered by Allyson Batista
+</footer>
+
+@RenderSection(name: "scripts", required: false)
+</body>
+</html>

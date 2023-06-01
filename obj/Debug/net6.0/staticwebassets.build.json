@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "NQ2A8SWaG8+uGh35Bn44ktmKA30xLDFsVaHtlDpkPog=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyRazorApp.styles.css"
+    },
+    {
+      "Identity": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css"
+    },
+    {
+      "Identity": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\wwwroot\\css\\site.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\wwwroot\\js\\site.js",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Other computers\\My Computer\\Documents\\Estudos\\ASP.NET Razor Pages\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}
